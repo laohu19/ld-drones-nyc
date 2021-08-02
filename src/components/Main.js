@@ -41,7 +41,7 @@ class Main extends React.Component {
       
           </p>
           <p>
-            Our pricing is case-dependent. After you send us your intiial request, we will reply 
+            Our pricing is case-dependent. After you send us your initial request, we will reply 
             if we can service your drone with a request for more information and a picture of the 
             drone. Please make sure your photograph shows the part that is not functional, if applicable. 
             We will work with you to find out exactly what is needed to repair your drone, or to customize or upgrade it. We 
